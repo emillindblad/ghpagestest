@@ -20,6 +20,7 @@ body{
 
 .main {
     margin-top: 8em;
+    padding-bottom: 4em;
 }
 
 h1,h2,h3 {
@@ -41,4 +42,10 @@ h3 {
 
 p {
     line-height:1.7;
+}
+
+p.footer {
+    margin-top: 3em;
+    font-size: 0.75em;
+    color:#666;
 }
