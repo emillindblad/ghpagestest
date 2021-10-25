@@ -1,2 +1,3 @@
 # ghpagestest
-testing
+
+Trying out GitHub pages for creating a personal website
