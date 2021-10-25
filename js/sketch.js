@@ -1,7 +1,7 @@
 let x,y,xwidth,yheight,xspeed,yspeed,r,g,b;
 
 function preload() {
-    dvd = loadImage("dvd.png")
+    dvd = loadImage("https://raw.githubusercontent.com/emillindblad/ghpagestest/master/assets/dvd.png")
 }
 
 function pickColor() {
@@ -22,7 +22,7 @@ function setup() {
 }
 
 function draw() {
-    background(0)
+    background(18,18,18)
     tint(r,g,b)
     image(dvd, x, y, xwidth, yheight)
     x += xspeed;
