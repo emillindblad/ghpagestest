@@ -25,7 +25,8 @@ body{
 
 h1,h2,h3 {
     line-height:1.2;
-    color: #2bbc8a;
+    /*color: #2bbc8a;*/
+    color: #5b73d8;
 }
 
 h1 {
