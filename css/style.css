@@ -1,7 +1,7 @@
 @media (prefers-color-scheme: dark){
-    body {color:#e3e3e3;background:#171717}
-    a:link {color:#9cf}
-    a:hover, a:visited:hover {color:#cef}
+    body {color:#fbf1c7;background:#282828}
+    a:link {color:#458588}
+    a:hover, a:visited:hover {color:#83a598}
     a:visited {color:#c9f}
 }
 
@@ -26,7 +26,7 @@ body{
 h1,h2,h3 {
     line-height:1.2;
     /*color: #2bbc8a;*/
-    color: #5b73d8;
+    color: #b8bb26;
 }
 
 h1 {
@@ -38,7 +38,7 @@ h2 {
 }
 
 h3 {
-    color:#666;
+    color:#928374;
 }
 
 p {
