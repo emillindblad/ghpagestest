@@ -1,9 +1,7 @@
-@media (prefers-color-scheme: dark){
-    body {color:#e3e3e3;background:#171717}
-    a:link {color:#9cf}
-    a:hover, a:visited:hover {color:#cef}
-    a:visited {color:#c9f}
-}
+body {color:#e3e3e3;background:#171717}
+a:link {color:#9cf}
+a:hover, a:visited:hover {color:#cef}
+a:visited {color:#c9f}
 
 @media print{
     body{
